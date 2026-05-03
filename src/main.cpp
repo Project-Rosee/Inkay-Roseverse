@@ -16,11 +16,11 @@
 #include <whb/log.h>
 
 const std::string gameModeNames[] = {
-    "Nic Cage Eats Stuff",
-    "EASY Nic Cage Eats Stuff",
-    "IMPOSSIBLE Nic Cage Eats Stuff",
-    "Nic Cage Eats Stuff 2",
-    "Nic Crash (warning: this will crash your Wii U)",
+    "David J Eats Stuff",
+    "EASY David J Eats Stuff",
+    "IMPOSSIBLE David J Eats Stuff",
+    "David J Eats Stuff 2",
+    "David Crash (warning: this will crash your Wii U)",
     "Don't touch red"
 };
 
