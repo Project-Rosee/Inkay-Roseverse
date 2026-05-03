@@ -24,7 +24,7 @@ This installation process requires a computer or any other device that can read 
 
 1. Turn off your Wii U and eject the SD card. Insert the SD card into your device.
 2. Download the [latest release](https://github.com/Project-Rosee/Inkay-Roseverse/releases) of `Inkay-roseverse.wuhb`.
-3. Place `Inkay-roseverse.wuhb` in the apps folder on your SD card (usually `sd:/wiiu/apps`). If it asks you to replace an existing file, replace it.
+3. Place `Inkay-roseverse.wuhb` in the apps folder on your SD card (`sd:/wiiu/apps/Roseverse`). If it asks you to replace an existing file, replace it.
 4. Eject the SD card from your device, and insert the SD card into your Wii U and turn it on.
 
 # Configuration
