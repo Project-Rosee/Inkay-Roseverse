@@ -1061,7 +1061,7 @@ int main(int argc, char **argv) {
     WHBLogUdpInit();
 
     // Create SDL window and renderer
-    window = SDL_CreateWindow("Nic Cage Eats Stuff", SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, SCREEN_WIDTH, SCREEN_HEIGHT, SDL_WINDOW_SHOWN);
+    window = SDL_CreateWindow("David J Eats Stuff", SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, SCREEN_WIDTH, SCREEN_HEIGHT, SDL_WINDOW_SHOWN);
     renderer = SDL_CreateRenderer(window, -1, SDL_RENDERER_ACCELERATED | SDL_RENDERER_PRESENTVSYNC);
 
     if (startSDLSystems(window, renderer) > 0) { // Custom SDL initialization
