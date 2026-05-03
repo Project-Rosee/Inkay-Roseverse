@@ -61,21 +61,21 @@ const std::string gameOverText[] = {
 };
 
 const char* playerImage[] = {
-    "sprites/NicCageFace.png",
-    "sprites/NicCageFace.png",
-    "sprites/NicCageFace.png",
-    "sprites/NicCageFace.png",
-    "sprites/NicCageFace.png",
-    "sprites/NicCageFace.png"
+    "sprites/DavidJFace.png",
+    "sprites/DavidJFace.png",
+    "sprites/DavidJFace.png",
+    "sprites/DavidJFace.png",
+    "sprites/DavidJFace.png",
+    "sprites/DavidJFace.png"
 };
 
 const char* playerTransparentImage[] = {
-    "sprites/NicCageFaceTransparent.png",
-    "sprites/NicCageFaceTransparent.png",
-    "sprites/NicCageFaceTransparent.png",
-    "sprites/NicCageFaceTransparent.png",
-    "sprites/NicCageFaceTransparent.png",
-    "sprites/NicCageFaceTransparent.png"
+    "sprites/DavidJFaceTransparent.png",
+    "sprites/DavidJFaceTransparent.png",
+    "sprites/DavidJFaceTransparent.png",
+    "sprites/DavidJFaceTransparent.png",
+    "sprites/DavidJFaceTransparent.png",
+    "sprites/DavidJFaceTransparent.png"
 };
 
 const char* tokenImage[] = {
@@ -123,7 +123,7 @@ const int playerSpeed[] = {
     250
 };
 
-//auto highscoreFolder = "sd:/wiiu/apps/NicCageEatsStuff/highscores"
+//auto highscoreFolder = "sd:/wiiu/apps/Roseverse/highscores"
 
 
 
