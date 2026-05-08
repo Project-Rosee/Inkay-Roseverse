@@ -1,7 +1,14 @@
 
 # Inkay (Roséverse)
 <img width="1000" height="250" alt="Inkay (Roséverse) by Project Rosé (README banner)" src="https://github.com/user-attachments/assets/be3959c7-58ce-4d88-87f7-db03bb4cf9a0" />
+<br><br>
 
+> [!IMPORTANT]
+> this is fake<br>
+> its a joke<br>
+> dont go complaining to project rose that your roseverse dont work<br>
+> instead go create a sarcastic issue here about how its so bhad<br>
+<br>
 [![GitHub release](https://img.shields.io/github/release/Project-Rosee/Inkay-Roseverse.svg)](https://github.com/Project-Rosee/Inkay-Roseverse/releases) [![Github all releases](https://img.shields.io/github/downloads/Project-Rosee/Inkay-Roseverse/total.svg)](https://gitHub.com/Project-Rosee/Inkay-Roseverse/releases) [![GitHub License](https://img.shields.io/github/license/Project-Rosee/Inkay-Roseverse)](https://github.com/Project-Rosee/Inkay-Roseverse/blob/master/LICENSE) [![Discord server](https://img.shields.io/discord/1437258836896514212?color=5865f2&label=Discord)](https://discord.gg/dNrn73szZQ) [![Services Health](https://projectrose.montastic.io/badge)](https://unitendo.org) 
 
 This version of [Inkay](https://github.com/PretendoNetwork/Inkay) lets you connect to [Roséverse](https://unitendo.org/), Project Rose's Miiverse revival, instead of Pretendo's [Juxtaposition (Juxt)](https://juxt.pretendo.network), while keeping connections to other Pretendo services intact. Read more about Inkay in the [original repository](https://github.com/PretendoNetwork/Inkay).
